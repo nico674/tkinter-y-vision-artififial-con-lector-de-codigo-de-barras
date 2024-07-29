@@ -1,0 +1,11 @@
+primero hay que crear un archivo para despues abrirlo en anaconda.
+Procesamiento de imagenes:
+
+line commands
+Opencv-pyhon
+pyllow
+
+for anaconda
+tkinter tk
+opencv
+matplotlib

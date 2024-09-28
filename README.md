@@ -1,7 +1,7 @@
 librerias que requiere:
-matplolib
-Opencv-python
-Opencv
-pillow
-numpy
+matplolib;
+Opencv-python;
+Opencv;
+pillow;
+numpy;
 tk
